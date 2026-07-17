@@ -125,4 +125,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-**Perarasu T** (Arasu)
+**Perarasu T**
